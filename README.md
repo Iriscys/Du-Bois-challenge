@@ -2,8 +2,8 @@
 
 #### Original graph: 
 
-![](images/original.jpeg){width="600"}
+![](images/original.jpeg)
 
 #### Recreation: 
 
-![](images/recreation.png){width="600"}
+![](images/recreation.png)
